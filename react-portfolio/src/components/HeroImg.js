@@ -1,13 +1,15 @@
 import "./HeroImgStyles.css";
 import React from 'react';
-import IntroImg from "../assets/intro.jpg";
+import  "../assets/matrix.mp4";
 import { Link } from "react-router-dom";
 
 const HeroImg = () => {
   return (
     <div className="hero">
       <div className="mask">
-         <img className="intro-img" src= {IntroImg} alt="IntroImg" />
+         <video loop autoPlay muted id="bg-video">
+            <source src={require("../assets/matrix.mp4")} type="video/mp4" />
+         </video>
       </div>
       <div className="content">
          <p>Hi, My name is Brandon</p>
