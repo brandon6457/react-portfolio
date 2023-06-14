@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# react-portfolio
+React Portfolio
+ReadMe Generator
+# README Generator
+   ![license:MIT](https://img.shields.io/badge/license-MIT-blue)
+  ## Description
+    This project shows how to create a professional README file using Node.js. It is very important to always create a README file so that the user understands how to use your application correctly.
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  
+  ## Installation
+    To use this application correctly, you will need to install Node.js, NPM, and inquirer (version 8.2.4) to create a README file.
+  ## Usage
+    It is always important to be as professional as possible, and this application will help create a professional README file for you.
 
-## Getting Started
+[link to video](/assets/images/README-video)
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  ## Credits
+    I had assistance from classmates, instructors, and Google on this project.
+  ## License
+  [license:MIT](https://opensource.org/licenses/MIT/)
+  ## Features
+    This application makes it easy to create a professional README file in just a short time just by answering a few questions. The README file is automatically generated with your answers and license information.
+  ## How to Contribute
+    Anyone can contribute by adding more features to the application to make it easier and more efficient to help the user understand and create a README file for their applications in the future.
+  ## Tests
+    To test this application, open the integrated terminal and run the following command: node index.js and press enter. The command will return with questions and license information for you to answer, then it will create the README file automatically with the user's answers.
+  ## Contact
+  github: [brandon6457](https://github.com/brandon6457)
+  email: example-email@example.com
