@@ -26,7 +26,7 @@ const Footer = () => {
          </div>
          <div className="right">
             <h4>About Me</h4>
-            <p>I am a new developer looking to improve my skills, and continue learning new languages. Feel free to contact me via email or text, and be sure to checkout my Github to see my progress through school, and be sure to follow me on Linkedin.</p>
+            <p>I am a new junior developer looking to improve my skills, and continue learning new languages. Feel free to contact me via email or text, and be sure to checkout my Github to see my progress through school, and be sure to follow me on Linkedin.</p>
             <div className="social">
             <BsGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} />
             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
