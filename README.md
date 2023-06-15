@@ -1,6 +1,8 @@
 # react-portfolio
 React Portfolio
+
    ![license:MIT](https://img.shields.io/badge/license-MIT-blue)
+   
   ## Description
     This project was a react built portfolio.
   ## Table of Contents
