@@ -20,8 +20,8 @@ const ProjectCardData = [
       imgsrc: pro3,
       title: "Fitness (into your day)",
       text: "A Fitness Social Network is a web application that allows fitness enthusiasts to connect, share fitness tips, and support each other on their fitness journeys. Users can create posts, view posts from other users, edit and delete their own posts. This project is built using React for the frontend, GraphQL for the API layer, and MongoDB as the database. It leverages various libraries and technologies such as Apollo Client for GraphQL communication, Next.js for server-side rendering, and Material-UI for UI components. Features User authentication: Users can sign up and log in to their accounts. Authentication is handled using JWT (JSON Web Tokens) for secure access to protected routes. Post creation: Authenticated users can create new posts, sharing fitness tips, progress updates, or any relevant information with the community. Post listing: The main page displays a list of posts from all users, sorted by the most recent. Each post includes the author's email, the post content, and the date of creation. Post editing and deletion: Users can edit and delete their own posts, allowing them to update their content or remove posts they no longer wish to share.",
-      view: "https://brandon6457-react-portfolio-acb29b798016.herokuapp.com/",
-      source: "https://github.com/brandon6457/react-portfolio/"
+      view: "https://evening-scrubland-38912.herokuapp.com/",
+      source: "https://github.com/brandon6457/fitness"
    },
 ];
 
